@@ -7,11 +7,17 @@
         "row": 0,
         "column": 0
     },
-    "link": {
+    "link1": {
         "update": true,
-        "text": "HLBots Fanpage",
-        "url": "https://www.facebook.com/hlbots",
+        "text1": "HLBots Fanpage",
+        "url1": "https://www.facebook.com/hlbots",
         "row": 0,
         "column": 1
+     "link2": {
+        "update": true,
+        "text2": "Youtube",
+        "url2": "https://www.youtube.com/channel/UCmoPe23mKU7cj1O31IH8eYQ",
+        "row": 0,
+        "column": 2   
     }
 }
