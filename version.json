@@ -3,7 +3,7 @@
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
-        "text": "Check update on",
+        "text": "Kiểm tra phiên bản mới tại",
         "row": 0,
         "column": 0
     },
