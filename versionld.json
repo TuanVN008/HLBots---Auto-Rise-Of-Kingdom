@@ -1,5 +1,5 @@
 {
-    "version": "V21.4",
+    "version": "V21.5",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
@@ -9,8 +9,8 @@
     },
     "link": {
         "update": true,
-        "text": "HLSHOPGAME.COM",
-        "url": "https://hlshopgame.com/",
+        "text": "HLBOTS.NET",
+        "url": "https://hlbots.net/",
         "row": 0,
         "column": 1
     }
