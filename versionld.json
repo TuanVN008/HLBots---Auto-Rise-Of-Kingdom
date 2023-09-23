@@ -1,6 +1,6 @@
 {
     "version": "V22.1",
-    "message": "thay đổi mã giải captcha cho những khách hàng đang sử dụng key 1 cửa sổ",
+    "message": "Tự động giải captcha cho những khách hàng\nđang sử dụng key 1 cửa sổ",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
