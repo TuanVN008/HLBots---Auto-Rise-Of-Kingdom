@@ -1,5 +1,5 @@
 {
-    "version": "V22.1",
+    "version": "V23",
     "message": "1. Nhập tọa độ trong game để làm vị trí thu thập gem thay vì bám vào nút lấy vị trí thu thập gem\n2. Thêm tùy chọn sản xuất vật liệu\n3. Thay đổi giao diện auto bot",
     "shouldUpdateInfo": true,
     "label": {
