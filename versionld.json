@@ -1,6 +1,6 @@
 {
-    "version": "V23.1",
-    "message": "1. Nhập tọa độ trong game để làm vị trí thu thập gem thay vì bám vào nút lấy vị trí thu thập gem\n2. Thêm tùy chọn sản xuất vật liệu\n3. Thay đổi giao diện auto bot\n 4. Tìm gem nhanh theo chiều ngang và dọc tùy chỉnh, không bị vướng đèo\n 5. Zoom out đúng vị trí tối ưu để tìm mỏ gem\n 6. Thêm tùy chọn cho lính cắm trại ở đền thờ hoặc không khi đang thu thập gem\n 7. Xóa cửa sổ thông báo nội dung cập nhật cũ trước khi đưa ra thông báo mới",
+    "version": "V23.2",
+    "message": "1. Fix lỗi bị lệch tọa độ quá nhiều ở điểm bắt đầu\n2. Tăng lượt vuốt lên 10 hoặc 15 tùy ý để tăng diện tích tìm mỏ gem\n3. Giảm thời gian chờ, tăng tốc độ tìm mỏ gem\n 4. Fix đánh cướp bóc",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
