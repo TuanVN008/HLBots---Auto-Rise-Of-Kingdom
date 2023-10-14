@@ -1,6 +1,6 @@
 {
-    "version": "V23.2",
-    "message": "1. Fix lỗi bị lệch tọa độ quá nhiều ở điểm bắt đầu\n2. Tăng lượt vuốt lên 10 hoặc 15 tùy ý để tăng diện tích tìm mỏ gem\n3. Giảm thời gian chờ, tăng tốc độ tìm mỏ gem\n 4. Fix đánh cướp bóc",
+    "version": "V23.3",
+    "message": "Khi tìm mỏ gem đến điểm cuối, vòng ngược lại để tìm kiếm thay vì về điểm bắt đầu",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
