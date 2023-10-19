@@ -1,6 +1,6 @@
 {
-    "version": "V23.3",
-    "message": "Khi tìm mỏ gem đến điểm cuối, vòng ngược lại để tìm kiếm thay vì về điểm bắt đầu",
+    "version": "V23.4",
+    "message": "1. Thêm tùy chọn farm gem nhanh\n2. Thay đổi cách tìm thiết bị dễ dàng hơn bằng list danh sách giả lập đã có\n3. Hiện tên và số thứ tự giả lập trong dánh sách thiết bị và màn hình điều khiển",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
