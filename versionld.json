@@ -1,6 +1,6 @@
 {
     "version": "V23.6",
-    "message": "1. Mọi người chú ý không đặt tên giả lập bằng tên tiếng Việt có dấu hoặc ký tự đặc biệt\n 2. Fix lỗi nhận diện lính đào gem quay về mà không thu thập sau phiên bản game mới",
+    "message": "1. Mọi người chú ý không đặt tên giả lập bằng tên tiếng Việt có dấu hoặc ký tự đặc biệt\n 2. Fix lỗi nhận diện lính đào gem quay về mà không thu thập sau phiên bản game mới\n 3. Fix lỗi do thám hang làng",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
