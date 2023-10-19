@@ -1,5 +1,5 @@
 {
-    "version": "V23.5",
+    "version": "V23.4",
     "message": "1. Thêm tùy chọn farm gem nhanh\n2. Thay đổi cách tìm thiết bị dễ dàng hơn bằng list danh sách giả lập đã có\n3. Hiện tên và số thứ tự giả lập trong dánh sách thiết bị và màn hình điều khiển\n4. Fix lỗi khi lấy vị trí công trình\n5. Mọi người chú ý không đặt tên giả lập bằng tên tiếng việt có dấu hoặc ký tự đặc biệt",
     "shouldUpdateInfo": true,
     "label": {
