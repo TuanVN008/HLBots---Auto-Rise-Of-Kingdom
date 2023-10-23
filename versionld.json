@@ -1,6 +1,6 @@
 {
-    "version": "V23.7",
-    "message": "1. Tối ưu thu thập gem khi có mỏ ở sát các icon trên màn hình game, thêm 1 số icon chống ks mỏ\n2. Fix lỗi chuyển mail game\n3. Fix lỗi dò sương mù\n4. Fix lỗi khi bấm vào nút vị trí công trình\n5. Nếu update tự động bị lỗi, hãy truy cập hlbots.net để xem hướng dẫn",
+    "version": "V23.8",
+    "message": "1. Fix lỗi chuyển email và nhân vật\n2. Nếu update tự động bị lỗi, hãy truy cập hlbots.net để xem hướng dẫn",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
