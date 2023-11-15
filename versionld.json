@@ -1,6 +1,6 @@
 {
-    "version": "V23.8",
-    "message": "1. Fix lỗi chuyển email và nhân vật\n2. Nếu update tự động bị lỗi, hãy truy cập hlbots.net để xem hướng dẫn",
+    "version": "V23.9",
+    "message": "1. Tối ưu đào gem\n2. Fix rally\n3. Tối ưu đánh cướp bóc\n4. Tối ưu kết nối thiết bị\n5. Lưu ý không xóa tệp adb trong thư mục cài đặt LDPlayer\n6. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để xem hướng dẫn",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
