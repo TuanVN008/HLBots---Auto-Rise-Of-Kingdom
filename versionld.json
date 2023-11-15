@@ -1,6 +1,6 @@
 {
     "version": "V23.9",
-    "message": "1. Tối ưu đào gem\n2. Fix rally\n3. Tối ưu đánh cướp bóc\n4. Tối ưu kết nối thiết bị\n5. Lưu ý không xóa tệp adb trong thư mục cài đặt LDPlayer\n6. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để xem hướng dẫn",
+    "message": "0. Thêm tính năng hẹn giờ auto hoạt động\n1. Tối ưu đào gem\n2. Fix rally\n3. Tối ưu đánh cướp bóc\n4. Tối ưu kết nối thiết bị\n5. Lưu ý không xóa tệp adb trong thư mục cài đặt LDPlayer\n6. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để xem hướng dẫn",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
