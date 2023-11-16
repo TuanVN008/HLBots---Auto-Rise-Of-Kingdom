@@ -1,5 +1,5 @@
 {
-    "version": "V23.9.2",
+    "version": "V23.9.1",
     "message": "0. Fix lỗi tràn CPU khi sử dụng tính năng tắt giả lập để tạm dừng auto\n1. Lưu ý không xóa tệp adb trong thư mục cài đặt LDPlayer\n2. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để xem hướng dẫn",
     "shouldUpdateInfo": true,
     "label": {
