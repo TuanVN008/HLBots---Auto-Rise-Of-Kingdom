@@ -1,6 +1,6 @@
 {
-    "version": "V23.9.3",
-    "message": "0. Thêm tính năng tự động tắt và bật giả lập để farm tài nguyên ít bị ban\n1. Tối ưu thu thập tài nguyên\n2. Fix lỗi kéo đạo quân đánh nhau đi farm Gem\n3. Fix tính năng tắt và bật giả lập tự động kết nối lại ở phiên bản LD9\n4. Fix lỗi tràn CPU khi sử dụng tính năng tắt giả lập để tạm dừng auto\n5. Lưu ý không xóa tệp adb trong thư mục cài đặt LDPlayer\n6. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
+    "version": "V23.9.4",
+    "message": "1. Fix lỗi tìm mỏ của bản cập nhật game mới\n2. Thêm 1 vài thao tác random để không bị hạn chế lính\n3. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
