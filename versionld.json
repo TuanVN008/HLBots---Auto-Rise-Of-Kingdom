@@ -1,6 +1,6 @@
 {
-    "version": "V23.9.4",
-    "message": "1. Fix lỗi tìm mỏ của bản cập nhật game mới\n2. Thêm 1 vài thao tác random để không bị hạn chế lính\n3. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
+    "version": "V23.9.5",
+    "message": "1. Fix giải captcha\n2. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
