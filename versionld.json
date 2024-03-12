@@ -1,6 +1,6 @@
 {
-    "version": "V23.9.6",
-    "message": "1. Fix lỗi lệch tọa độ\n2. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
+    "version": "V23.9.7",
+    "message": "1. Fix lỗi farm gem map kvk\n2. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
