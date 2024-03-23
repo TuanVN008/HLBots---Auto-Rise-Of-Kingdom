@@ -1,6 +1,6 @@
 {
-    "version": "V23.9.8",
-    "message": "1. Thay đổi cơ chế tìm kiếm mỏ Gem\n2. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
+    "version": "V23.9.9",
+    "message": "1. Thay đổi cơ chế tìm kiếm mỏ Gem, fix lỗi tìm mỏ Gem tính năng farm quanh tọa độ\n2. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
