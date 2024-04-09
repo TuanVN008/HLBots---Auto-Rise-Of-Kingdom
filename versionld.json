@@ -1,6 +1,6 @@
 {
-    "version": "V24",
-    "message": "1. Thay đổi cơ chế tìm kiếm mỏ Gem, thay đổi cách zoom out (liên hệ với chúng tôi để được hỗ trợ)\n2. Cập nhật tính năng hạn chế khóa nick và cấm lính, sẽ tiếp tục tối ưu thêm\n3. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
+    "version": "V24.1",
+    "message": "0. Tối ưu vài tính năng nhỏ\n1. Thay đổi cơ chế tìm kiếm mỏ Gem, thay đổi cách zoom out (liên hệ với chúng tôi để được hỗ trợ)\n2. Cập nhật tính năng hạn chế khóa nick và cấm lính, sẽ tiếp tục tối ưu thêm\n3. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
