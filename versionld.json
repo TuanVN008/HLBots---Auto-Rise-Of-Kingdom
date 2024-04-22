@@ -1,6 +1,6 @@
 {
-    "version": "V24.3",
-    "message": "0. Tự động cài phím tắt, không cần cài thủ công\n1. Fix đào gem sau khi tìm mỏ chờ\n2. Cập nhật tính năng hạn chế khóa nick và cấm lính, sẽ tiếp tục tối ưu thêm\n3. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
+    "version": "V24.4",
+    "message": "1. Thay đổi cơ chế zoom, hãy chọn lại ldconsole và khởi động lại giả lập\n2. Cập nhật tính năng hạn chế khóa nick và cấm lính, sẽ tiếp tục tối ưu thêm\n3. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
