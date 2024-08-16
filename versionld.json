@@ -1,5 +1,5 @@
 {
-    "version": "V24.7",
+    "version": "V24.8",
     "message": "1. Fix sau cập nhật game, lỗi làm nhiệm vụ trong thành phố\n2. Cập nhật tính năng hạn chế khóa nick và cấm lính, sẽ tiếp tục tối ưu thêm\n3. Nếu update tự động bị lỗi, hãy truy cập https://hlbots.net/ để cập nhật thủ công",
     "shouldUpdateInfo": true,
     "label": {
